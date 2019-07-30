@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "PyCon Zimbabwe 2018"
+title: "PyCon Zimbabwe 2020"
 email: "zim.pycon@gmail.com"
 description: "PyCon Zim is the conference for Python programmers in Zimbabwe"
 baseurl: ""
@@ -60,13 +60,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "PyConZim 2018 <typeout> Harare"
-eventDate: "19-20 October"
+heroTitle: "PyConZim 2020 <typeout> Harare"
+eventDate: "April 2020"
 typeoutTextValues: '"", "", ""'
 typeoutFallback: ""
 heroButtons:
- - {link: "http://bit.ly/pyconzim-cfp", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/spon-pyzim", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About PyConZim"
